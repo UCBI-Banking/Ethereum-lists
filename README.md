@@ -6,7 +6,7 @@
 
 A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
 
-## Found a Phishing URL? See a fake ICO address?
+## Found a Phishing URL ? See a fake ICO address ?
 
 Everyone is encouraged to make a PR or issue to add an address or URL to the list. This process is far easier than you might imagine!
 
