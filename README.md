@@ -1,4 +1,4 @@
-# Ethereum-lists
+# Ethereum-lists by UCBI Maroc
 
 [![Travis (.org)](https://img.shields.io/travis/MyEtherWallet/ethereum-lists.svg)](https://travis-ci.org/MyEtherWallet/ethereum-lists)
 [![GitHub](https://img.shields.io/github/license/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists/)
